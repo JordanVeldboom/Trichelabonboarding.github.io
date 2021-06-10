@@ -4,7 +4,7 @@ title:  "Welcome to Triche Lab!"
 date:   2021-05-21 14:53:03 -0400
 categories: jekyll update
 ---
-##2021 onboarding: less bad than 2020
+## 2021 onboarding: less bad than 2020
 
 
     *Are you new to the lab?*
