@@ -4,13 +4,14 @@ title:  "Welcome to Triche Lab!"
 date:   2021-05-21 14:53:03 -0400
 categories: jekyll update
 ---
+
 ## 2021 onboarding: less bad than 2020
 
-
-    *Are you new to the lab?*
-    If so, <a href="#PBL">skip right to your first task</a>, then come back. 
+*Are you new to the lab?*
+If so, <a href="#PBL">skip right to your first task</a>, then come back. 
 
 #Expectations
+
       My job is to ensure that the lab can do worthwhile science. Your job is
       to do worthwhile science, and answer interesting questions. Both our jobs 
       require regular communication and feedback.
@@ -30,29 +31,29 @@ categories: jekyll update
 	  [Simone's Maxims](https://clincancerres.aacrjournals.org/content/5/9/2281),
 	  please read them now
 		
-      **Everyone must attend lab meetings on Fridays at 12pm. If you**
-      **have a conflict, please let Tim, Mary, and Lauren know so we can**
-      **try to accommodate. Slack is for day-to-day lab business; lab meeting**
-      **is structured to keep us all focused on short- and medium-term goals.**
-      **Lab members who are not presenting in a given week are responsible for**
-      **listening carefully, and providing useful feedback to those who are.**
-      **Lab members whose turn it is to present are expected to do so, or swap**
-      **slots with another who will. This is important to maintain focus.**
-      **Progress is our most important product.**
+**Everyone must attend lab meetings on Fridays at 12pm. If you**
+**have a conflict, please let Tim, Mary, and Lauren know so we can**
+**try to accommodate. Slack is for day-to-day lab business; lab meeting**
+**is structured to keep us all focused on short- and medium-term goals.**
+**Lab members who are not presenting in a given week are responsible for**
+**listening carefully, and providing useful feedback to those who are.**
+**Lab members whose turn it is to present are expected to do so, or swap**
+**slots with another who will. This is important to maintain focus.**
+**Progress is our most important product.**
         
-      **Finished is better than perfect** Weekly presentations enforce
-      this basic concept: successful projects hit milestones and produce 
-      insights, tools, or both, often in ways that we could not have 
-      anticipated. This can't happen if we don't communicate, with each
-      other and with the world at large, via publication and presentation.
+**Finished is better than perfect** Weekly presentations enforce
+this basic concept: successful projects hit milestones and produce 
+insights, tools, or both, often in ways that we could not have 
+anticipated. This can't happen if we don't communicate, with each
+other and with the world at large, via publication and presentation.
          
-      **Successes are worth celebrating.** Manuscript submission, 
-      preprint deposition, formal journal acceptance, invitations to present
-      at major venues, notice of awards, lab birthdays and lab babies -- 
-      they all matter. Science is hard enough without ascetism. You might
-      need to remind me -- please do. I will pick up the tab (duh? But
-      better to spell it out than assume anything). If you can give Lauren
-      a bit of lead time, we can plan more interesting outings accordingly.
+**Successes are worth celebrating.** Manuscript submission, 
+preprint deposition, formal journal acceptance, invitations to present
+at major venues, notice of awards, lab birthdays and lab babies -- 
+they all matter. Science is hard enough without ascetism. You might
+need to remind me -- please do. I will pick up the tab (duh? But
+better to spell it out than assume anything). If you can give Lauren
+a bit of lead time, we can plan more interesting outings accordingly.
        
 ##Preliminaries
 	
