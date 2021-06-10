@@ -23,12 +23,12 @@ categories: jekyll update
           the week's progress and to address matters arising.
         
         
-          **I must schedule a 1:1 with you (in person, Zoom, call, whatever) every 2 weeks. These can be rescheduled but must not be skipped.
-          A 1:1 meeting is for long-term goals (fellowships, grants, papers, 
-          career choices), calibrating expectations, and to ensure our working
-          arrangement remains mutually beneficial. If you are unfamiliar with 
-		  [Simone's Maxims](https://clincancerres.aacrjournals.org/content/5/9/2281),
-		  please read them now
+**I must schedule a 1:1 with you (in person, Zoom, call, whatever) every 2 weeks. These can be rescheduled but must not be skipped.
+A 1:1 meeting is for long-term goals (fellowships, grants, papers, 
+career choices), calibrating expectations, and to ensure our working
+arrangement remains mutually beneficial. If you are unfamiliar with 
+[Simone's Maxims](https://clincancerres.aacrjournals.org/content/5/9/2281),
+please read them now
 		
           **Everyone must attend lab meetings on Fridays at 12pm.</b> If you
           **have a conflict, please let Tim, Mary, and Lauren know so we can
