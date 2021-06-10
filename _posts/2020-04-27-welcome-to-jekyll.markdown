@@ -10,7 +10,7 @@ categories: jekyll update
 *Are you new to the lab?*
 If so, <a href="#PBL">skip right to your first task</a>, then come back. 
 
-#Expectations
+# Expectations
 
       My job is to ensure that the lab can do worthwhile science. Your job is
       to do worthwhile science, and answer interesting questions. Both our jobs 
@@ -55,13 +55,14 @@ need to remind me -- please do. I will pick up the tab (duh? But
 better to spell it out than assume anything). If you can give Lauren
 a bit of lead time, we can plan more interesting outings accordingly.
        
-##Preliminaries
+## Preliminaries
 	
     Mostly reading you can do at home or before rotating/interning/etc.
     We are a wet and dry lab, so we have some background suggestions for both. 
     
 
-###Dry
+### Dry
+
     The dry background changes but, assuming you have some familiarity with 
     programming, statistics *(machine learning, data science, whatever)*,
     and experimental design, the following are good starting points:
@@ -93,7 +94,7 @@ a bit of lead time, we can plan more interesting outings accordingly.
     Many if not most of the same principles apply to flow, CyTOF, and CITE,
     which is handy, since we index sort and compare to all of the above.
 
-###Wet
+### Wet
     
     The 3-volume set of Molecular Cloning is in bay 16, and the videos for 
     various (strange and/or wonderful) protocols are on Google Drive, which 
@@ -102,7 +103,7 @@ a bit of lead time, we can plan more interesting outings accordingly.
     protocol. For context ("why are you doing this"), Tim may or may not be
     a useful source. For practical wet bench questions, ask Mary. 
     
-###Neither/Both 
+### Neither/Both 
     
     For papers, proposals, and general reference, we like Google Docs and 
     Paperpile (the latter in part because some or all of a person's references
@@ -113,7 +114,7 @@ a bit of lead time, we can plan more interesting outings accordingly.
     we will get another license for your personal use (just ask). 
     
 
-##Random tips/insights/suggestions
+## Random tips/insights/suggestions
     Use screen/tmux for interactive sessions so you don't lose work.
     
     The sooner you package your code, the easier your life will become:
@@ -134,7 +135,7 @@ a bit of lead time, we can plan more interesting outings accordingly.
     sucks to set up but, for big projects, it's a lot better than trying to 
     recreate everything when a reviewer squawks 18 months from now.
     
-#Finished >> perfect 
+# Finished >> perfect 
     
     Sometimes you will need to compromise in order to hit a deadline or
     present in a timely manner. That's fine. The goal of developing good habits 
@@ -143,7 +144,7 @@ a bit of lead time, we can plan more interesting outings accordingly.
     whether a project is finished -- our job is to communicate useful advances
     to the rest of the world, so *we have to publish the results.*
 
-#PROBLEM BASED LEARNING OPPORTUNITY!
+# PROBLEM BASED LEARNING OPPORTUNITY!
      
     First things first, if you're doing dry work, you'll need a GitHub ID.
       
@@ -176,7 +177,7 @@ a bit of lead time, we can plan more interesting outings accordingly.
     
     What all else can we drag in?  Surely there's rather a lot.
     
-    *What kind of computer/OS should I use for dry lab stuff?*
+*What kind of computer/OS should I use for dry lab stuff?*
     That all depends -- if you're going to build R packages, just use Linux.
    
     The Linux Subsystem for Windows version 2 (LS2) can be enabled on Windows.
@@ -193,7 +194,7 @@ a bit of lead time, we can plan more interesting outings accordingly.
 
    -[Herve Pages](https://stat.ethz.ch/pipermail/bioc-devel/2020-January/016010.html)
 
-    # universal truths about hardware
+# universal truths about hardware
 
     Whatever you use, put a lot of RAM in it, and execute your long-running 
     jobs on HPC or AWS so that you don't lock up your own machine and miss 
