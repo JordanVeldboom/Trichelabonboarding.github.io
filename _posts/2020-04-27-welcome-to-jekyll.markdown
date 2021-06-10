@@ -23,7 +23,7 @@ categories: jekyll update
       the week's progress and to address matters arising.
         
         
-	  **I must schedule a 1:1 with you (in person, Zoom, call, whatever) every 2 weeks. These can be rescheduled but must not be skipped.**
+**I must schedule a 1:1 with you (in person, Zoom, call, whatever) every 2 weeks. These can be rescheduled but must not be skipped.**
 	  A 1:1 meeting is for long-term goals (fellowships, grants, papers, 
 	  career choices), calibrating expectations, and to ensure our working
 	  arrangement remains mutually beneficial. If you are unfamiliar with 
